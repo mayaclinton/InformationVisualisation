@@ -1,0 +1,24 @@
+neighborhood,year,tree_count,species_count
+40,Bayshore,2015.0,102,30
+81,Bayview,2015.0,108,31
+131,Castro,2015.0,81,39
+173,Chinatown,2015.0,4,3
+210,Financial District,2015.0,7,5
+255,Ingleside,2015.0,168,45
+307,Inner Richmond,2015.0,75,37
+339,Lake Merced,2015.0,39,14
+391,Lower Pacific Heights,2015.0,96,32
+442,Marina,2015.0,74,23
+488,Mission,2015.0,271,65
+538,Nob Hill,2015.0,43,19
+585,North Beach,2015.0,61,23
+635,Outer Richmond,2015.0,77,30
+685,Panhandle,2015.0,98,43
+722,Portola,2015.0,34,20
+761,Rincon Hill,2015.0,59,10
+805,SoMa,2015.0,133,36
+855,South Beach,2015.0,82,33
+905,Sunset,2015.0,118,35
+950,Taraval,2015.0,73,21
+995,Tenderloin,2015.0,66,16
+1044,Twin Peaks,2015.0,37,27
