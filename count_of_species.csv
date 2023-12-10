@@ -1,0 +1,236 @@
+year,species,count
+1955, Southern Magnolia,2
+1956, Hybrid Strawberry Tree,3
+1956, Southern Magnolia,11
+1969, Brisbane Box,2
+1969, Southern Magnolia,10
+1969, Swamp Myrtle,1
+1970, Cherry Plum,1
+1970, Southern Magnolia,1
+1972, Cherry Plum,8
+1972, Hybrid Strawberry Tree,5
+1972, Southern Magnolia,8
+1972, Swamp Myrtle,5
+1973, Brisbane Box,1
+1973, Cherry Plum,4
+1973, Hybrid Strawberry Tree,5
+1973, Southern Magnolia,1
+1973, Swamp Myrtle,2
+1974, Brisbane Box,1
+1974, Cherry Plum,7
+1974, Hybrid Strawberry Tree,1
+1976, Brisbane Box,2
+1976, Cherry Plum,2
+1976, Southern Magnolia,2
+1976, Swamp Myrtle,1
+1977, Brisbane Box,2
+1977, Hybrid Strawberry Tree,1
+1977, Southern Magnolia,11
+1978, Brisbane Box,2
+1978, Cherry Plum,2
+1978, Hybrid Strawberry Tree,1
+1978, Southern Magnolia,5
+1979, Brisbane Box,4
+1979, Cherry Plum,2
+1979, Hybrid Strawberry Tree,2
+1979, Southern Magnolia,2
+1980, Brisbane Box,6
+1980, Cherry Plum,5
+1980, Hybrid Strawberry Tree,3
+1980, Southern Magnolia,21
+1980, Swamp Myrtle,1
+1981, Brisbane Box,5
+1981, Cherry Plum,4
+1981, Southern Magnolia,10
+1981, Swamp Myrtle,1
+1982, Brisbane Box,12
+1982, Cherry Plum,29
+1982, Hybrid Strawberry Tree,2
+1982, Southern Magnolia,29
+1982, Swamp Myrtle,2
+1983, Brisbane Box,36
+1983, Cherry Plum,44
+1983, Hybrid Strawberry Tree,3
+1983, Southern Magnolia,26
+1983, Swamp Myrtle,3
+1984, Brisbane Box,5
+1984, Cherry Plum,26
+1984, Hybrid Strawberry Tree,1
+1984, Southern Magnolia,17
+1984, Swamp Myrtle,2
+1985, Brisbane Box,41
+1985, Cherry Plum,15
+1985, Hybrid Strawberry Tree,4
+1985, Southern Magnolia,7
+1985, Swamp Myrtle,52
+1986, Brisbane Box,49
+1986, Cherry Plum,15
+1986, Hybrid Strawberry Tree,5
+1986, Southern Magnolia,6
+1986, Swamp Myrtle,6
+1987, Brisbane Box,60
+1987, Cherry Plum,19
+1987, Southern Magnolia,41
+1987, Swamp Myrtle,13
+1988, Brisbane Box,38
+1988, Cherry Plum,40
+1988, Hybrid Strawberry Tree,3
+1988, Southern Magnolia,17
+1988, Swamp Myrtle,8
+1989, Brisbane Box,59
+1989, Cherry Plum,32
+1989, Southern Magnolia,28
+1989, Swamp Myrtle,6
+1990, Brisbane Box,91
+1990, Cherry Plum,35
+1990, Hybrid Strawberry Tree,1
+1990, Southern Magnolia,31
+1990, Swamp Myrtle,23
+1991, Brisbane Box,45
+1991, Cherry Plum,35
+1991, Hybrid Strawberry Tree,1
+1991, Southern Magnolia,21
+1991, Swamp Myrtle,20
+1992, Brisbane Box,144
+1992, Cherry Plum,83
+1992, Hybrid Strawberry Tree,7
+1992, Southern Magnolia,56
+1992, Swamp Myrtle,76
+1993, Brisbane Box,121
+1993, Cherry Plum,130
+1993, Hybrid Strawberry Tree,3
+1993, Southern Magnolia,41
+1993, Swamp Myrtle,38
+1994, Brisbane Box,96
+1994, Cherry Plum,60
+1994, Hybrid Strawberry Tree,17
+1994, Southern Magnolia,59
+1994, Swamp Myrtle,40
+1995, Brisbane Box,309
+1995, Cherry Plum,225
+1995, Hybrid Strawberry Tree,100
+1995, Southern Magnolia,84
+1995, Swamp Myrtle,270
+1996, Brisbane Box,118
+1996, Cherry Plum,148
+1996, Hybrid Strawberry Tree,122
+1996, Southern Magnolia,99
+1996, Swamp Myrtle,127
+1997, Brisbane Box,125
+1997, Cherry Plum,45
+1997, Hybrid Strawberry Tree,99
+1997, Southern Magnolia,85
+1997, Swamp Myrtle,178
+1998, Brisbane Box,172
+1998, Cherry Plum,250
+1998, Hybrid Strawberry Tree,292
+1998, Southern Magnolia,111
+1998, Swamp Myrtle,313
+1999, Brisbane Box,91
+1999, Cherry Plum,131
+1999, Hybrid Strawberry Tree,50
+1999, Southern Magnolia,88
+1999, Swamp Myrtle,47
+2000, Brisbane Box,143
+2000, Cherry Plum,288
+2000, Hybrid Strawberry Tree,147
+2000, Southern Magnolia,75
+2000, Swamp Myrtle,88
+2001, Brisbane Box,94
+2001, Cherry Plum,108
+2001, Hybrid Strawberry Tree,126
+2001, Southern Magnolia,85
+2001, Swamp Myrtle,67
+2002, Brisbane Box,164
+2002, Cherry Plum,204
+2002, Hybrid Strawberry Tree,170
+2002, Southern Magnolia,103
+2002, Swamp Myrtle,60
+2003, Brisbane Box,121
+2003, Cherry Plum,102
+2003, Hybrid Strawberry Tree,116
+2003, Southern Magnolia,84
+2003, Swamp Myrtle,130
+2004, Brisbane Box,42
+2004, Cherry Plum,50
+2004, Hybrid Strawberry Tree,47
+2004, Southern Magnolia,34
+2004, Swamp Myrtle,34
+2005, Brisbane Box,233
+2005, Cherry Plum,61
+2005, Hybrid Strawberry Tree,85
+2005, Southern Magnolia,101
+2005, Swamp Myrtle,97
+2006, Brisbane Box,236
+2006, Cherry Plum,30
+2006, Hybrid Strawberry Tree,228
+2006, Southern Magnolia,173
+2006, Swamp Myrtle,241
+2007, Brisbane Box,100
+2007, Cherry Plum,29
+2007, Hybrid Strawberry Tree,202
+2007, Southern Magnolia,108
+2007, Swamp Myrtle,178
+2008, Brisbane Box,159
+2008, Cherry Plum,118
+2008, Hybrid Strawberry Tree,488
+2008, Southern Magnolia,100
+2008, Swamp Myrtle,398
+2009, Brisbane Box,79
+2009, Cherry Plum,35
+2009, Hybrid Strawberry Tree,122
+2009, Southern Magnolia,66
+2009, Swamp Myrtle,104
+2010, Brisbane Box,78
+2010, Cherry Plum,20
+2010, Hybrid Strawberry Tree,84
+2010, Southern Magnolia,30
+2010, Swamp Myrtle,39
+2011, Brisbane Box,81
+2011, Cherry Plum,22
+2011, Hybrid Strawberry Tree,116
+2011, Southern Magnolia,43
+2011, Swamp Myrtle,114
+2012, Brisbane Box,85
+2012, Cherry Plum,16
+2012, Hybrid Strawberry Tree,66
+2012, Southern Magnolia,41
+2012, Swamp Myrtle,52
+2013, Brisbane Box,68
+2013, Cherry Plum,11
+2013, Hybrid Strawberry Tree,65
+2013, Southern Magnolia,41
+2013, Swamp Myrtle,66
+2014, Brisbane Box,105
+2014, Cherry Plum,8
+2014, Hybrid Strawberry Tree,51
+2014, Southern Magnolia,84
+2014, Swamp Myrtle,73
+2015, Brisbane Box,149
+2015, Cherry Plum,16
+2015, Hybrid Strawberry Tree,122
+2015, Southern Magnolia,84
+2015, Swamp Myrtle,114
+2016, Brisbane Box,153
+2016, Cherry Plum,25
+2016, Hybrid Strawberry Tree,55
+2016, Southern Magnolia,47
+2016, Swamp Myrtle,100
+2017, Brisbane Box,174
+2017, Cherry Plum,22
+2017, Hybrid Strawberry Tree,34
+2017, Southern Magnolia,27
+2017, Swamp Myrtle,101
+2018, Brisbane Box,77
+2018, Cherry Plum,10
+2018, Hybrid Strawberry Tree,78
+2018, Southern Magnolia,32
+2018, Swamp Myrtle,110
+2019, Brisbane Box,45
+2019, Cherry Plum,5
+2019, Hybrid Strawberry Tree,27
+2019, Southern Magnolia,11
+2019, Swamp Myrtle,86
+2020, Brisbane Box,7
+2020, Hybrid Strawberry Tree,2
+2020, Swamp Myrtle,13
